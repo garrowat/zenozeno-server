@@ -1,0 +1,22 @@
+{
+  "name": "zenozeno-server",
+  "version": "1.0.0",
+  "description": "AI model server for zenozeno",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/garrowat/zenozeno-server"
+  },
+  "keywords": [
+    "AI",
+    "deeplearning",
+    "express",
+    "server",
+    "javascript"
+  ],
+  "author": "Garrett Watson",
+  "license": "ISC"
+}
